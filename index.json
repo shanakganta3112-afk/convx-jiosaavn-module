@@ -1,0 +1,22 @@
+{
+  "category:modules": [
+    {
+      "id": "jiosaavn",
+      "name": "JioSaavn",
+      "author": "self-hosted",
+      "version": "1.0.0",
+      "type": "MODULE",
+      "description": "Audio from JioSaavn's catalogue over its own api.php (unofficial). Matches the playing track by title and artist, decrypts the CDN URL and serves AAC up to 320 kbps.",
+      "tags": [
+        "320KBPS",
+        "AAC",
+        "INDIAN"
+      ],
+      "download": "saavn.js",
+      "size": 16324,
+      "sizeLabel": "16 KB",
+      "lastUpdated": "2026-11-12",
+      "trusted": false
+    }
+  ]
+}
